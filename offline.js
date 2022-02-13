@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1644750339,
+	"version": 1644752245,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,14 @@
 		"images/arkaplan-sheet0.png",
 		"images/arkaplan-sheet1.png",
 		"images/devamspt-sheet0.png",
+		"images/tiledbackground.png",
+		"images/ilerig-sheet0.png",
+		"images/tiledbackground2.png",
+		"images/sonucespt-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/anasayfa-sheet0.png",
+		"media/dogruses (online-audio-converter.com).ogg",
+		"media/yanlisses (online-audio-converter.com).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
