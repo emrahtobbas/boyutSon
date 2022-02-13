@@ -19705,7 +19705,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetAnimFrame,
 	cr.plugins_.Arr.prototype.exps.Back,
 	cr.plugins_.Arr.prototype.acts.Pop,
-	cr.plugins_.Touch.prototype.cnds.OnTouchObject,
-	cr.system_object.prototype.acts.AddVar
+	cr.system_object.prototype.acts.AddVar,
+	cr.plugins_.Touch.prototype.cnds.OnTouchObject
 ];};
 
