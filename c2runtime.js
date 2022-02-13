@@ -19697,6 +19697,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.exps["int"],
 	cr.system_object.prototype.exps.tokenat,
 	cr.plugins_.Text.prototype.acts.SetText,
+	cr.behaviors.Flash.prototype.acts.Flash,
 	cr.system_object.prototype.cnds.Else,
 	cr.plugins_.Function.prototype.cnds.OnFunction,
 	cr.system_object.prototype.cnds.For,
